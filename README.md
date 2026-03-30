@@ -13,9 +13,11 @@ Sou Analista de Testes com experiência em testes manuais e automatizados, focad
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-blue)
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gicornaglia&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gicornaglia&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=gicornaglia&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gicornaglia&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gicornaglia&layout=compact&theme=tokyonight" />
+</p>
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/giselevalentim/
