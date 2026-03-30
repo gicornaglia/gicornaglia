@@ -1,4 +1,4 @@
-<h1><span style="color:pink;">Gisele Valentim</span> </h1>
+![Nome](https://img.shields.io/badge/Gisele%20Valentim-QA%20Engineer-ff69b4?style=for-the-badge)
 
 QA Engineer | Automação de Testes | APIs | Selenium | Cypress | CI/CD
 
