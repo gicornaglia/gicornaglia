@@ -1,16 +1,22 @@
-## Hi there 👋
+#Gisele Valentim 
 
-<!--
-**gicornaglia/gicornaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer | Automação de Testes | APIs | Selenium | Cypress | CI/CD
 
-Here are some ideas to get you started:
+## Sobre mim
+Sou Analista de Testes com experiência em testes manuais e automatizados, focada em garantir qualidade de software através de testes de API, interface e integração contínua.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Tecnologias
+![Cypress](https://img.shields.io/badge/Cypress-Automation-brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![API Testing](https://img.shields.io/badge/API-Testing-orange)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-blue)
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gicornaglia&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gicornaglia&layout=compact&theme=dark)
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/giselevalentim/
+- Email: giselevzcornaglia@gmail.com
