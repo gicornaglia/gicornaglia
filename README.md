@@ -1,6 +1,6 @@
 ![Nome](https://img.shields.io/badge/Gisele%20Valentim-QA%20Engineer-ff69b4?style=for-the-badge)
 
-QA Engineer | Automação de Testes | APIs | Selenium | Cypress | CI/CD
+Automação de Testes | APIs | E2E | Selenium | Cypress | CI/CD
 
 ## Sobre mim
 Sou Analista de Testes com experiência em testes manuais e automatizados, focada em garantir qualidade de software através de testes de API, interface e integração contínua.
